@@ -3,6 +3,13 @@ Docker-Registry
 
 [![Build Status](https://travis-ci.org/dotcloud/docker-registry.png)](https://travis-ci.org/dotcloud/docker-registry)
 
+
+Test
+----
+
+Testing Travis
+
+
 Create the configuration
 ------------------------
 
